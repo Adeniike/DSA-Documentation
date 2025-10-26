@@ -1,3 +1,2 @@
-# DSA-Documentation
-I launched my portfolio here as part of my hands-on data analysis training with The Incubator, where I worked on real-world projects and developed practical skills.
-ho8uguijbjvtfss [download here](https://www.microsoft.com)
+## DSA-Documentation
+ I created this portfolio during my time at The Incubator, where I dove into real-world data analysis projects and built up my skills through hands-on work. It was a chance to move beyond theory and really get my hands dirty with data — cleaning it, exploring it, and turning it into insights that matter. This space is where I share what I’ve learned and what I’m passionate about.
